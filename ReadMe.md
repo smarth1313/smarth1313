@@ -15,9 +15,6 @@ Um criador de jogos sonhador, saindo do mundo do papel de seus boardgames para o
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=smarth1313&icon=0&color=2)](https://visitcount.itsvg.in)
 
